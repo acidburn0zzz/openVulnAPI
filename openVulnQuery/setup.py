@@ -14,6 +14,6 @@ setup(name='OpenVulnQuery',
           },
       install_requires=[
           'argparse==1.4.0',
-          'requests==2.10.0'
+          'requests==2.32.0'
       ],
       zip_safe=False,)
